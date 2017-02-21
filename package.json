@@ -1,0 +1,10 @@
+{
+  "name": "cmacc-lib-lang",
+  "version": "1.0.0",
+  "description": "Language files for cmacc",
+  "main": "index.js",
+  "repository": "https://github.com/cmacclang/cmacc-lib-lang.git",
+  "author": "Marc Dangeard <marc@dangeard.com>",
+  "flat" : true,
+  "license": "MIT"
+}
