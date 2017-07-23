@@ -1,13 +1,13 @@
-$ il_elle = "il";
+$ il_elle = "il"
 
-$ Il_Elle = "Il";
+$ Il_Elle = "Il"
 
-$ son_sa = "son";
+$ son_sa = "son"
 
-$ Male_Female = "Homme";
+$ Male_Female = "Homme"
 		
-$ male_female = "homme";
+$ male_female = "homme"
 				
-$ Mr_Ms = "M.";
+$ Mr_Ms = "M."
 
-$ term_e = "";
+$ term_e = ""
