@@ -1,9 +1,9 @@
-$ meus = "me/us"
+$ me_us = "me/us"
 
-$ Iwe = "I/we"
+$ I_we = "I/we"
 
-$ myour = "my/our"
+$ my_our = "my/our"
 
-$ IWe = "I/We"
+$ I_We = "I/We"
 
-$ MyOur = "My/Our"
+$ My_Our = "My/Our"
