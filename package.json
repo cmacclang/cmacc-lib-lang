@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-lang",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Language files for cmacc",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-lib-lang.git",
